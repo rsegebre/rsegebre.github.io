@@ -2,9 +2,9 @@ url: "https://rsegebre.github.io" # The base hostname & protocol for your site
 baseurl: "" # The subpath of your site, e.g. /blog
 
 title: "My Awesome Blog"
-author: "Your Name"
-email: "your.email@example.com"
-description: "A blog about stuff."
+author: "rsegebre"
+email: "your-email@example.com"
+description: "A personal blog and portfolio."
 lsi: false
 safe: true
 incremental: false
@@ -16,7 +16,8 @@ kramdown:
   syntax_highlighter: rouge
 
 # Theme and Plugins
-remote_theme: jekyll/minima # This is the repository for the Minima theme
+theme: minima
 
 plugins:
   - jekyll-remote-theme # This plugin allows you to use remote themes
+  - jekyll-feed
