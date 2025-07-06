@@ -1,3 +1,6 @@
+url: "https://rsegebre.github.io" # The base hostname & protocol for your site
+baseurl: "" # The subpath of your site, e.g. /blog
+
 title: "My Awesome Blog"
 author: "Your Name"
 email: "your.email@example.com"
