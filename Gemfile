@@ -8,4 +8,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap" #  Generates a sitemap for SEO.
   gem "jekyll-feed"    #  Generates an Atom feed for your blog.
   gem "jekyll-seo-tag" #  Adds SEO tags to your site's header.
+  gem "minima"
 end
