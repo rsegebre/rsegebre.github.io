@@ -18,6 +18,4 @@ kramdown:
 # Theme and Plugins
 theme: minima
 
-plugins:
-  - jekyll-remote-theme # This plugin allows you to use remote themes
-  - jekyll-feed
+plugins: []
