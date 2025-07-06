@@ -1,0 +1,15 @@
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Theme and Plugins
+remote_theme: jekyll/minima # This is the repository for the Minima theme
+
+plugins:
+  - jekyll-remote-theme # This plugin allows you to use remote themes
